@@ -4,7 +4,7 @@ from dashboard.app import run_dashboard
 st.set_page_config(page_title="Store Intelligence System", layout="wide")
 
 st.sidebar.title("Navigation")
-page = st.sidebar.selectbox("Choose Module", ["Dashboard"])
+page = st.sidebar.selectbox("Choose Module", ["dashboard"])
 
-if page == "Dashboard":
+if page == "dashboard":
     run_dashboard()
