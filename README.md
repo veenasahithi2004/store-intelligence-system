@@ -153,3 +153,16 @@ The system helps retailers understand:
 * Customer engagement behavior
 * Revenue-driving product categories
 * Store conversion effectiveness
+
+# 🛍️ Store Intelligence System
+
+🚀 Live Dashboard:  
+https://store-intelligence-system-3nydq3tapofyexzuwdm9zt.streamlit.app/
+
+---
+
+## Features
+- AI-based retail analytics
+- Visitor tracking
+- Zone-wise insights
+- Revenue dashboards
